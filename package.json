@@ -1,0 +1,15 @@
+{
+  "name": "introduction-to-nodejs",
+  "version": "1.0.0",
+  "description": "Introduction to NodeJS: Setting up environment Rendering to browser File system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chidiebere Ernest",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
